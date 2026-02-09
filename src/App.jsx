@@ -1,4 +1,4 @@
-import FullNameDisplay from "./FullNameDisplay";
+import FullNameDisplay from "./FullNameDisplay.jsx";
 
 function App() {
   return <FullNameDisplay />;
